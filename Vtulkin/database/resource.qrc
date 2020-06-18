@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/img1.jpg</file>
+        <file>images/img1.xpm</file>
+        <file>images/img2.png</file>
+        <file>images/img2.xpm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/001-download.png</file>
+        <file>images/002-statistics.png</file>
+        <file>images/003-trash.png</file>
+        <file>images/004-document.png</file>
+        <file>images/005-picture.png</file>
+        <file>images/006-list.png</file>
+        <file>images/007-archive.png</file>
+        <file>images/008-cloud.png</file>
+        <file>images/009-search.png</file>
+        <file>images/010-exchange.png</file>
+        <file>images/011-user data.png</file>
+        <file>images/012-upload.png</file>
+        <file>images/013-video.png</file>
+        <file>images/014-document.png</file>
+        <file>images/015-locked.png</file>
+        <file>images/016-typography.png</file>
+        <file>images/017-volume.png</file>
+        <file>images/018-warning.png</file>
+        <file>images/019-save.png</file>
+        <file>images/020-report.png</file>
+        <file>images/021-medical report.png</file>
+        <file>images/022-financial report.png</file>
+        <file>images/023-table.png</file>
+        <file>images/024-design.png</file>
+        <file>images/025-copy.png</file>
+        <file>images/026-document.png</file>
+        <file>images/027-music.png</file>
+        <file>images/028-certification.png</file>
+        <file>images/029-coding.png</file>
+        <file>images/030-key.png</file>
+        <file>images/031-database.png</file>
+        <file>images/032-sheet.png</file>
+        <file>images/033-data.png</file>
+        <file>images/034-multimedia.png</file>
+        <file>images/035-schedule.png</file>
+        <file>images/036-add.png</file>
+        <file>images/037-delete.png</file>
+        <file>images/038-zip.png</file>
+        <file>images/039-mail.png</file>
+        <file>images/040-edition.png</file>
+    </qresource>
+</RCC>
